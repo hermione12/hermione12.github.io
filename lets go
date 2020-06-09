@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "BE CREATIVE"</title>
+    </head>
+    <body>
+    <style> 
+        
+        body {
+            background-color: rgb(9, 14, 15);
+        }
+        h1 {
+            color:rgb(120, 230, 245);
+             font-family: monospace;
+             
+        }
+         h2 {
+            color:rgb(120, 230, 245);
+             font-family: cursive;
+        }
+    </style>
+    <br>
+
+        <h1> Of course I talk to myself,   </h1> <h2> Sometimes I need some  <em>expert advice </em> </h2>
+        
+        <img src="https://www.kasandbox.org/programming-images/avatars/mr-pants-with-hat.png">
+       
+        <table>
+            <thead>
+               
+            </thead>
+            <tbody>
+                
+            </tbody>
+        </table>
+        
+    </body>
+</html>
